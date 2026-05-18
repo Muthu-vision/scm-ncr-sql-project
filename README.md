@@ -192,7 +192,7 @@ CREATE DATABASE scm_ncr_sql_project;
 ## 👤 Author
 
 **R. Mutthupandiayan**
-- 📧 Email: *(add your email)*
+- 📧 Email: muthuayagh5801@gmail.com
 - 💼 LinkedIn: *(add your LinkedIn URL)*
 - 🐙 GitHub: *(add your GitHub URL)*
 
